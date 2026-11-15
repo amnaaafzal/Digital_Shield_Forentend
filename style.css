@@ -1,0 +1,9 @@
+.submit:active {
+    background-color: chocolate;
+}
+input.text {
+    color: #475569;
+}
+input.text:focus {
+    color: #102a43;
+}
